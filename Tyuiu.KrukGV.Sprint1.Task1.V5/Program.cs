@@ -50,7 +50,8 @@ namespace Tyuiu.KrukGV.Sprint1.Task1.V5
 
             Console.WriteLine(ds.Calculate(x, y));
 
-            Console.ReadLine();
+
+            Console.Read();
         }
     }
 }

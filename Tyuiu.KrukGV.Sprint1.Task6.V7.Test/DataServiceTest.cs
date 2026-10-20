@@ -12,7 +12,7 @@ namespace Tyuiu.KrukGV.Sprint1.Task6.V7.Test
             DataService ds = new DataService();
             var res = ds.DeleteLastLetter("hello world");
 
-            Assert.AreEqual("hello worl", res);
+            Assert.AreEqual("hell worl", res);
         }
     }
 }

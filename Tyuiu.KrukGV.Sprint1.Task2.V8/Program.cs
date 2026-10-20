@@ -48,7 +48,6 @@ namespace Tyuiu.KrukGV.Sprint1.Task2.V8
 
             Console.WriteLine(ds.CalculatePerimetr(x, y));
 
-
             Console.Read();
         }
     }
